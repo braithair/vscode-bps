@@ -1,0 +1,39 @@
+{
+    "name": "bps",
+    "displayName": "braithair-productivity-suite",
+    "description": "The Braithair Productivity Pack!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-azuretools.vscode-docker",
+        "mark-tucker.aws-cli-configure",
+        "DanielThielking.aws-cloudformation-yaml",
+        "msazurermtools.azurerm-vscode-tools",
+        "ms-vscode.cpptools",
+        "aws-scripting-guy.cform",
+        "dbaeumer.vscode-eslint",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "bierner.markdown-preview-github-styles",
+        "DavidAnson.vscode-markdownlint",
+        "ms-vscode.PowerShell",
+        "ms-python.python",
+        "mauve.terraform",
+        "vscode-icons-team.vscode-icons",
+        "Compilenix.vscode-zonefile",
+        "redhat.vscode-yaml",
+        "DotJoshJohnson.xml",
+        "zhuangtongfa.Material-theme",
+        "ms-vscode.Go",
+        "esbenp.prettier-vscode",
+        "formulahendry.code-runner",
+        "vscodevim.vim",
+        "johnpapa.vscode-peacock",
+        "ms-azuretools.vscode-azurefunctions",
+        "rebornix.Ruby"
+    ]
+}
