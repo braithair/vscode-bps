@@ -3,8 +3,13 @@
     "displayName": "braithair-productivity-suite",
     "description": "The Braithair Productivity Pack!",
     "version": "0.0.1",
+    "icon": "enso.png",
     "engines": {
         "vscode": "^1.36.0"
+    },
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/braithair/vscode-bps"
     },
     "categories": [
         "Extension Packs"
