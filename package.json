@@ -2,7 +2,7 @@
     "name": "bps",
     "displayName": "braithair-productivity-suite",
     "description": "The Braithair Productivity Pack!",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "icon": "enso.png",
     "publisher": "braithair",
     "engines": {
@@ -37,10 +37,12 @@
         "ms-vscode.Go",
         "esbenp.prettier-vscode",
         "formulahendry.code-runner",
-        "vscodevim.vim",
         "johnpapa.vscode-peacock",
         "ms-azuretools.vscode-azurefunctions",
         "rebornix.Ruby",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "ms-vsliveshare.vsliveshare",
+        "oderwat.indent-rainbow"
+
     ]
 }
