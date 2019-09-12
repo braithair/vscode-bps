@@ -2,7 +2,7 @@
     "name": "bps",
     "displayName": "braithair-productivity-suite",
     "description": "The Braithair Productivity Pack!",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "enso.png",
     "publisher": "braithair",
     "engines": {
@@ -26,7 +26,7 @@
         "ms-kubernetes-tools.vscode-kubernetes-tools",
         "bierner.markdown-preview-github-styles",
         "DavidAnson.vscode-markdownlint",
-        "ms-vscode.PowerShell",
+        "ms-vscode.PowerShell-Preview",
         "ms-python.python",
         "mauve.terraform",
         "vscode-icons-team.vscode-icons",
