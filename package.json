@@ -16,6 +16,9 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
+        "ms-azuretools.vscode-bicep",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "ms-vscode.vscode-typescript-next",
         "ms-azuretools.vscode-docker",
         "mark-tucker.aws-cli-configure",
         "DanielThielking.aws-cloudformation-yaml",

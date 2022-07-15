@@ -4,6 +4,10 @@ Visual Studio Code Extension Pack - Braithair Productivity Suite
 
 This is a productivity suite set of extensions for VSCode! Includes all the regular culprints. There is one theme in the below which is: **tobiasalthoff.atom-material-theme**
 
+## Package Creation Guide
+
+Wanna make your own pack? Start here: https://code.visualstudio.com/blogs/2017/03/07/extension-pack-roundup 
+
 ## Installation
 
 Open up VS Code, hit the "Extensions" button and search "BPS".
