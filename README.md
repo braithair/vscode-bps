@@ -7,6 +7,7 @@ This is a productivity suite set of extensions for VSCode! Includes all the regu
 ## Package Creation Guide
 
 Wanna make your own pack? Start here: https://code.visualstudio.com/blogs/2017/03/07/extension-pack-roundup 
+Wanna publish that pack? Start here: https://code.visualstudio.com/api/working-with-extensions/publishing-extension
 
 ## Installation
 
