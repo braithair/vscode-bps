@@ -2,20 +2,20 @@
     "name": "bps",
     "displayName": "braithair-productivity-suite",
     "description": "The Braithair Productivity Pack!",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "icon": "enso.png",
     "publisher": "braithair",
     "engines": {
         "vscode": "^1.36.0"
     },
     "repository": {
-        "type": "git", 
+        "type": "git",
         "url": "https://github.com/braithair/vscode-bps"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "ms-azuretools.vscode-bicep",
         "VisualStudioExptTeam.vscodeintellicode",
         "ms-vscode.vscode-typescript-next",
@@ -46,6 +46,5 @@
         "streetsidesoftware.code-spell-checker",
         "ms-vsliveshare.vsliveshare",
         "oderwat.indent-rainbow"
-
     ]
 }
